@@ -1,1 +1,1 @@
-# sequence-gazing
+# Sequence-gazing
