@@ -1,3 +1,3 @@
 # Sequence-gazing
 
-Repo for blog, includes example data for tutorials.
+Repo for sequence-gazing blog, includes example data for tutorials and links to further learning resources and notes.
