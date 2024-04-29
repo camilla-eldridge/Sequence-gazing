@@ -5,8 +5,8 @@ import sys
 import numpy as np
 import pandas as pd
 
-number=sys.argv[1]
 
+# Function to generate the Fib sequence of length n
 def fibonacci(n):
     fib_seq = np.zeros(n, dtype=int)
     fib_seq[0] = 1
@@ -16,6 +16,7 @@ def fibonacci(n):
     return fib_seq
 
 # Specify the length of Fib sequence (arg[1])
+number=sys.argv[1]
 number=int(number)
 
 # Generate Fib sequence
